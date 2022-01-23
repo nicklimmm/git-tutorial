@@ -1,0 +1,9 @@
+# To ignore files from being tracked with Git
+
+# You may use regex patterns, file or folder names
+# *.md
+# folder/
+# index.js
+
+# Specific file under a certain folder
+# folder/file.png
